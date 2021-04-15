@@ -24,5 +24,3 @@
         name: appcontainer
         image: "prodaptengineer/python-app
         state: started
-        published_ports: 8098:5000
-          
